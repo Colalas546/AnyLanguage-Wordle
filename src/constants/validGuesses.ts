@@ -23,7 +23,7 @@ export const VALIDGUESSES = [
   'brule',
   'foule',
   'coule',
-  'sirop',
+  'sirop'
 ]
 
 if (CONFIG.normalization) {
