@@ -15,4 +15,6 @@ export const CONFIG = {
   startDate: 'March 19, 2022 00:00:00', // what date and time to start your game from
   defaultLang: 'en', // the default interface language
   availableLangs: ['en', 'es'], // the options available to the user for translation languages
+  //What the heck
+  
 }
