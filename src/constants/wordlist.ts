@@ -13,7 +13,7 @@ export const WORDS = [
   'pieds',
   'coeur',
   'dents',
-  'gorge',
+  'gorge'
 ]
 
 if (CONFIG.normalization) {
